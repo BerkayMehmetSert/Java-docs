@@ -19,3 +19,12 @@
 - [Statik Değişkenler](./static-degiskenler/Readme.md)
 - [İlkel Veri Tipleri](./veri-tipleri/Readme.md)
 - [Tür Dönüşümleri](./tur-donusumleri/Readme.md)
+
+#### Java Diziler
+- [Diziler (Arrays)](./diziler/Readme.md)
+
+#### Java Temel Operatörler & Aritmatik Operatörü
+- [Temel Operatörler & Aritmatik Operatörü](./temel-operatorler/Readme.md)
+- [İlişkisel ve Eşitlik Operatörleri](./iliskisel-esiktik-oparotorleri/Readme.md)
+- [Bitsel Operatörler](./bitsel-operatorler/Readme.md)
+- [Mantıksal Operatörler](./mantiksal-operatorler/Readme.md)
